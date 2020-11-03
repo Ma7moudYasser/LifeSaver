@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fever">
+
+    <EditText
+        android:id="@+id/Feverdetails"
+        android:layout_width="410dp"
+        android:layout_height="738dp"
+        android:ems="10"
+        android:gravity="start|top"
+        android:inputType="textMultiLine"
+        android:text="@string/yellow_fever_avoid_travelling_to_yellow_fever_infested_places_avoid_stagnant_ponds_and_fill_them_to_get_rid_of_mosquito_breeding_and_spread_spraying_rooms_with_insecticide_to_kill_mosquitoes_that_are_inside_them_in_infested_areas_wear_appropriate_clothing_to_reduce_mosquito_bites_e_g_long_sleeves_long_pants_socks_when_out_of_the_house_use_insect_repellent_and_mosquito_nets_the_disease_caused_by_the_marburg_virus_there_is_no_vaccine_against_the_marburg_virus_disease_and_no_cure_to_cure_it_so_it_can_lead_to_death_quickly_most_of_the_deaths_occurred_in_the_current_outbreak_3_to_7_days_after_the_onset_of_symptoms_with_no_real_effective_treatment_options_the_most_effective_way_to_protect_yourself_from_marburg_virus_disease_is_to_prevent_it_completely_there_is_no_vaccine_currently_available_to_prevent_marburg_virus_even_if_the_infected_is_in_the_early_stages_of_development_so_the_methods_of_preventing_marburg_virus_are_based_on_conventional_nursing_techniques_such_as_the_barrier_which_is_the_personal_protective_equipment_used_to_prevent_ebola_as_well_as_to_avoid_animals_that_may_carry_the_virus"
+        android:textColorHighlight="@color/black"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="-4dp"
+        tools:ignore="MissingConstraints" />
+</androidx.constraintlayout.widget.ConstraintLayout>

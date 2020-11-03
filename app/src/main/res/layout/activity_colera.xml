@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Colera">
+
+    <EditText
+        android:id="@+id/coleradetails"
+        android:layout_width="411dp"
+        android:layout_height="647dp"
+        android:ems="10"
+        android:gravity="start|top"
+        android:inputType="textMultiLine"
+        android:text="@string/do_not_eat_contaminated_foods_such_as_food_exposed_to_insects_especially_flies_drinking_sterile_and_clean_water_and_if_it_is_not_available_water_can_be_sterilized_by_1_boil_the_water_2_add_chlorine_in_certain_proportions_and_use_water_half_an_hour_after_the_addition_avoid_liquids_refreshments_juices_and_yogurt_from_the_markets_do_not_buy_ice_from_the_market_avoid_raw_foods_especially_fish_exposed_foods_or_perishable_foods"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="2dp"
+        tools:ignore="MissingConstraints" />
+</androidx.constraintlayout.widget.ConstraintLayout>

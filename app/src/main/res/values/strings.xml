@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Life Saver</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">Please enter the required fields</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="Message">Please enter all the details correctly</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="number_of_attempts_remaining_5">Number of attempts remaining: 5</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="angola">Angola</string>
+    <string name="algeria">Algeria</string>
+    <string name="mali">Mali</string>
+
+    <string name="ivory_coast">Ivory Coast</string>
+    <string name="liberia">Liberia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="morocco">Morocco</string>
+    <string name="cholera_do_not_eat_contaminated_foods_such_as_food_exposed_to_insects_especially_flies_drinking_sterile_and_clean_water_and_if_it_is_not_available_water_can_be_sterilized_by_1_boil_the_water_2_add_chlorine_in_certain_proportions_and_use_water_half_an_hour_after_the_addition_avoid_liquids_refreshments_juices_and_yogurt_from_the_markets_do_not_buy_ice_from_the_market_avoid_raw_foods_especially_fish_exposed_foods_or_perishable_foods_that_have_had_a_time_in_hot_weather_such_as_vegetables_and_rice_avoid_eating_ice_cream_from_street_vendors_cook_food_well_maintain_hygiene_wash_your_hands_thoroughly_after_exiting_the_toilet_take_care_of_general_health_clean_the_body_and_sterilize_clothes_well_take_care_of_the_cleanliness_of_the_body_and_the_cleanliness_of_eating_and_drinking_tools">Cholera • Do not eat contaminated foods such as food exposed to insects, especially flies. • Drinking sterile and clean water, and if it is not available, water can be sterilized by: 1- Boil the water. 2- Add chlorine in certain proportions and use water half an hour after the addition. • Avoid liquids, refreshments, juices and yogurt from the markets. • Do not buy ice from the market. • Avoid raw foods, especially fish, exposed foods, or perishable foods that have had a time in hot weather such as vegetables and rice. • Avoid eating ice cream from street vendors. • Cook food well. • Maintain hygiene, wash your hands thoroughly after exiting the toilet. • Take care of general health, clean the body and sterilize clothes well. • Take care of the cleanliness of the body and the cleanliness of eating and drinking tools.</string>
+    <string name="cholera">Cholera</string>
+    <string name="malaria">Malaria</string>
+    <string name="tiger_mosq">Tiger Mosq.</string>
+    <string name="yellow_fever">Yellow Fever</string>
+    <string name="rabbies">Rabbies</string>
+    <string name="colera">Colera</string>
+    <string name="riftvalley">RiftValley</string>
+    <string name="do_not_eat_contaminated_foods_such_as_food_exposed_to_insects_especially_flies_drinking_sterile_and_clean_water_and_if_it_is_not_available_water_can_be_sterilized_by_1_boil_the_water_2_add_chlorine_in_certain_proportions_and_use_water_half_an_hour_after_the_addition_avoid_liquids_refreshments_juices_and_yogurt_from_the_markets_do_not_buy_ice_from_the_market_avoid_raw_foods_especially_fish_exposed_foods_or_perishable_foods">• Do not eat contaminated foods such as food exposed to insects, especially flies. • Drinking sterile and clean water, and if it is not available, water can be sterilized by: 1- Boil the water. 2- Add chlorine in certain proportions and use water half an hour after the addition. • Avoid liquids, refreshments, juices and yogurt from the markets. • Do not buy ice from the market. • Avoid raw foods, especially fish, exposed foods, or perishable foods</string>
+    <string name="yellow_fever_avoid_travelling_to_yellow_fever_infested_places_avoid_stagnant_ponds_and_fill_them_to_get_rid_of_mosquito_breeding_and_spread_spraying_rooms_with_insecticide_to_kill_mosquitoes_that_are_inside_them_in_infested_areas_wear_appropriate_clothing_to_reduce_mosquito_bites_e_g_long_sleeves_long_pants_socks_when_out_of_the_house_use_insect_repellent_and_mosquito_nets_the_disease_caused_by_the_marburg_virus_there_is_no_vaccine_against_the_marburg_virus_disease_and_no_cure_to_cure_it_so_it_can_lead_to_death_quickly_most_of_the_deaths_occurred_in_the_current_outbreak_3_to_7_days_after_the_onset_of_symptoms_with_no_real_effective_treatment_options_the_most_effective_way_to_protect_yourself_from_marburg_virus_disease_is_to_prevent_it_completely_there_is_no_vaccine_currently_available_to_prevent_marburg_virus_even_if_the_infected_is_in_the_early_stages_of_development_so_the_methods_of_preventing_marburg_virus_are_based_on_conventional_nursing_techniques_such_as_the_barrier_which_is_the_personal_protective_equipment_used_to_prevent_ebola_as_well_as_to_avoid_animals_that_may_carry_the_virus">Yellow fever. • Avoid travelling to yellow fever infested places. • Avoid stagnant ponds and fill them to get rid of mosquito breeding and spread. • Spraying rooms with insecticide to kill mosquitoes that are inside them in infested areas. • Wear appropriate clothing to reduce mosquito bites (e.g. long sleeves, long pants, socks when out of the house). • Use insect repellent and mosquito nets. The disease caused by the Marburg virus. • There is no vaccine against the Marburg virus disease and no cure to cure it, so it can lead to death quickly. Most of the deaths occurred in the current outbreak, 3 to 7 days after the onset of symptoms. • With no real effective treatment options, the most effective way to protect yourself from Marburg virus disease is to prevent it completely, there is no vaccine currently available to prevent Marburg virus, even if the infected is in the early stages of development, so the methods of preventing Marburg virus are based on conventional nursing techniques, such as the barrier, which is the personal protective equipment used to prevent Ebola, as well as to avoid animals that may carry the virus.</string>
+    <string name="after_exposure_to_rabies_is_the_immediate_treatment_available_to_a_person_after_being_exposed_to_rabies_due_to_a_bite_this_treatment_prevents_the_virus_from_entering_the_central_nervous_system_causing_imminent_death_the_treatment_is_good_washing_and_topical_treatment_of_the_wound_as_soon_as_possible_after_exposure_to_the_disease_administering_a_series_of_effective_and_effective_anti_rabies_vaccine_doses_that_meet_who_standards_give_the_anti_rabies_immunoglobulin_if_recommended_the_provision_of_effective_treatment_after_exposure_to_rabies_prevents_symptoms_and_death">• After exposure to rabies is the immediate treatment available to a person after being exposed to rabies due to a bite. This treatment prevents the virus from entering the central nervous system, causing imminent death. The treatment is: • Good washing and topical treatment of the wound as soon as possible after exposure to the disease. • Administering a series of effective and effective anti-rabies vaccine doses that meet WHO standards. • Give the anti-rabies immunoglobulin if recommended. • The provision of effective treatment after exposure to rabies prevents symptoms and death.</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Rabbies">
+
+    <MultiAutoCompleteTextView
+        android:id="@+id/Rabbies"
+        android:layout_width="383dp"
+        android:layout_height="397dp"
+        android:text="@string/after_exposure_to_rabies_is_the_immediate_treatment_available_to_a_person_after_being_exposed_to_rabies_due_to_a_bite_this_treatment_prevents_the_virus_from_entering_the_central_nervous_system_causing_imminent_death_the_treatment_is_good_washing_and_topical_treatment_of_the_wound_as_soon_as_possible_after_exposure_to_the_disease_administering_a_series_of_effective_and_effective_anti_rabies_vaccine_doses_that_meet_who_standards_give_the_anti_rabies_immunoglobulin_if_recommended_the_provision_of_effective_treatment_after_exposure_to_rabies_prevents_symptoms_and_death"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="16dp"
+        tools:ignore="MissingConstraints" />
+</androidx.constraintlayout.widget.ConstraintLayout>
